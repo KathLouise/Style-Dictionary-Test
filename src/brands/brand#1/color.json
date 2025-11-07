@@ -1,0 +1,18 @@
+{
+    "alias": {
+        "color": {
+            "brand": {
+                "primary": {
+                    "value": "#3B5998",
+                    "type": "color",
+                    "comment": "this is a comment"
+                },
+                "secondary": {
+                    "value": "#4267B2",
+                    "type": "color",
+                    "comment": "this one is a comment too"
+                }
+            }
+        }
+    }
+}

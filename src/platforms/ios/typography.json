@@ -1,0 +1,12 @@
+{
+    "font_family": {
+        "system": {
+            "value": "system",
+            "category": "typography"
+        },
+        "custom": {
+            "value": "UniNeue",
+            "category": "typography"
+        }
+    }
+}

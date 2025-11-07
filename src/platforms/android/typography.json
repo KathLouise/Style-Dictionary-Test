@@ -1,0 +1,12 @@
+{
+    "font_family": {
+        "system": {
+            "value": "sans-serif",
+            "category": "typography"
+        },
+        "custom": {
+            "value": "@font/uni_neue",
+            "category": "typography"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tokenAliasColorBrandPrimary">#EA4335</color>
+    <color name="tokenAliasColorBrandSecondary">#34A853</color>
+    <string name="tokenColorPrimary">@color/tokenAliasColorBrandPrimary</string>
+    <string name="tokenColorSecondary">@color/tokenAliasColorBrandSecondary</string>
+    <color name="tokenColorGreen">#4A8C70</color>
+    <color name="tokenColorBlue">#14213D</color>
+    <color name="tokenColorYellow">#FCA311</color>
+    <color name="tokenColorRed">#BF0603</color>
+    <string name="tokenColorFeatureChat">@color/tokenColorGreen</string>
+    <string name="tokenColorFeatureBlog">@color/tokenColorBlue</string>
+    <string name="tokenColorFeatureShop">@color/tokenColorYellow</string>
+    <string name="tokenColorFeatureSettings">@color/tokenColorRed</string>
+    <color name="tokenColorBlack">#000</color>
+    <color name="tokenColorGray60">#6a6a6a</color>
+    <color name="tokenColorGray40">#949494</color>
+    <color name="tokenColorGray24">#c4c4c4</color>
+    <color name="tokenColorGray12">#e0e0e0</color>
+    <color name="tokenColorGray3">#f6f6f6</color>
+    <string name="tokenColorActionPrimary">@color/tokenColorPrimary</string>
+    <string name="tokenColorActionDestructive">@color/tokenColorRed</string>
+    <string name="tokenColorBorder">@color/tokenColorGray12</string>
+    <string name="tokenColorUserAuthenticated">@color/tokenColorGreen</string>
+    <string name="tokenColorUserAnonymous">@color/tokenColorGray40</string>
+    <color name="tokenColorSocialFacebook">#4867aa</color>
+    <color name="tokenColorSocialTwitter">#1ab0ff</color>
+    <color name="tokenColorSocialVkontakte">#507299</color>
+    <color name="tokenColorSocialOdnoklassniki">#ff8201</color>
+    <color name="tokenColorSocialGoogle">#dc4a3d</color>
+    <color name="tokenColorSocialInstagram">#d93175</color>
+    <color name="tokenColorSocialLinkedin">#0076b7</color>
+</resources>

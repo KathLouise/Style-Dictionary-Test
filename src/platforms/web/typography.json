@@ -1,0 +1,12 @@
+{
+    "font_family": {
+        "system": {
+            "value": "-apple-system, 'San Francisco', 'Helvetica Neue', 'Segoe WP', 'Segoe UI', Roboto, sans-serif",
+            "category": "typography"
+        },
+        "custom": {
+            "value": "'Uni Neue', sans-serif",
+            "category": "typography"
+        }
+    }
+}
